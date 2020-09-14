@@ -1,0 +1,6 @@
+a {color:green;text-decoration: none;}
+#grid ol {border-right:9px solid orange; width:90px; margin:0px; padding:30px;}
+h1 {border-bottom:9px solid gray; margin:0px; padding:30px;}
+h1 {font-size:90px; text-align: center;}
+#grid{display:grid; grid-template-columns:190px 1fr;}
+#grid #article{padding-left:30px;}
